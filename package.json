@@ -32,7 +32,7 @@
     "docpad": ">=6.37 <7"
   },
   "dependencies": {
-    "stylus": "~0.38.0",
+    "stylus": "~0.40.0",
     "nib": "~1.0.1"
   },
   "devDependencies": {
